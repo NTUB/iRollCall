@@ -1,0 +1,9 @@
+CHANGED,C:\Users\105409\Desktop\OnlineNamed2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$id$override.class
+CHANGED,C:\Users\105409\Desktop\OnlineNamed2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\a105409\onlinenamed\R$styleable$override.class
+CHANGED,C:\Users\105409\Desktop\OnlineNamed2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\a105409\onlinenamed\R$string$override.class
+CHANGED,C:\Users\105409\Desktop\OnlineNamed2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\a105409\onlinenamed\R$mipmap$override.class
+CHANGED,C:\Users\105409\Desktop\OnlineNamed2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\a105409\onlinenamed\R$style$override.class
+CHANGED,C:\Users\105409\Desktop\OnlineNamed2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\a105409\onlinenamed\R$id$override.class
+CHANGED,C:\Users\105409\Desktop\OnlineNamed2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\a105409\onlinenamed\R$layout$override.class
+CHANGED,C:\Users\105409\Desktop\OnlineNamed2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\105409\Desktop\OnlineNamed2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\a105409\onlinenamed\R$integer$override.class
